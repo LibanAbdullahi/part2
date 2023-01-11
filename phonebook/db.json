@@ -1,0 +1,52 @@
+{
+  "persons": [
+    {
+      "name": "Arto Hellas",
+      "number": "040-123456"
+    },
+    {
+      "name": "Ada Lovelace",
+      "number": "39-44-5323523"
+    },
+    {
+      "name": "Dan Abramov",
+      "number": "12-43-234345"
+    },
+    {
+      "name": "Mary Poppendieck",
+      "number": "39-23-6423122"
+    },
+    {
+      "id": "2637311d-06b8-4c4e-a20e-04bc8af72939",
+      "name": "arto",
+      "number": "045285"
+    },
+    {
+      "number": "04552204585",
+      "id": "6062bb56-7d0b-44c7-865c-b67a2db638f1"
+    },
+    {
+      "id": "7266fb49-a10c-4773-b1c0-e76337236a8b",
+      "name": "jama",
+      "number": "048569522"
+    },
+    {
+      "id": "7dc4b330-c8a8-4872-a613-342c052215c2",
+      "name": "xerta",
+      "number": "046582565"
+    },
+    {
+      "number": "04566253552",
+      "id": "b135b618-fa5f-4e8b-9ce1-5fa3b814c4a4"
+    },
+    {
+      "number": "0452862285",
+      "id": "63ad6dc9-e1e9-4eda-9f67-c3f8010a5d32"
+    },
+    {
+      "id": "5f186e37-7a2a-43f0-9601-40122e9d858f",
+      "name": "anne",
+      "number": "0452255232"
+    }
+  ]
+}
